@@ -1,1 +1,1 @@
-This is 0x03-git, amending git commit message
+This is 0x03-git, amending git commit message #part2
